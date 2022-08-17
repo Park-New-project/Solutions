@@ -23,18 +23,6 @@ class SolutionAddMissing {
         return Arrays.stream(numbers).anyMatch(i -> i == key);
     }
 }
-    
-   /*
-    * class Solution {
-	public int solution(int[] numbers) {
-        int answer = -1;
-        for (int i : numbers){
-        	sum -= i;
-        	}
-        return sum;
-    	}
-    }*/
-
 
 	
 
