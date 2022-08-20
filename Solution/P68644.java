@@ -2,15 +2,14 @@ import java.util.ArrayList;
 import java.util.Comparator;
 import java.util.TreeSet;
 
-
-public class AddSelected {
+public class P68644 {
 	public static void main(String[] args) {
-		SolutionAddSelected s = new SolutionAddSelected();
+		SolutionP68644 s = new SolutionP68644();
 		int[] input = {2,1,3,4,1};
 		System.out.println(s.solution(input));
 	}
 }
-class SolutionAddSelected {
+class SolutionP68644 {
     public int[] solution(int[] numbers) {
         int[] answer = {};
         ArrayList<Integer> arr = new ArrayList<Integer>();
