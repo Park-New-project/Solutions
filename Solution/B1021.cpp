@@ -7,10 +7,7 @@ deque<int> deq;
 int main() {
     int N, M, input, index, count, left,right;
     deque<int>::iterator it;
-
     cin >> N >> M;
-
-
     //1~N으로 큐 채우기(위치값)
     for (int i = 1; i <= N; i++) {
         deq.push_back(i);

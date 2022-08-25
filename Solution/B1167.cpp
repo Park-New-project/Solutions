@@ -29,9 +29,6 @@ void DFS(int node, int cost)
         for (int i = 0; i < graph[node].size(); i++)
                  DFS(graph[node][i].first, cost + graph[node][i].second);
 }
-
- 
-
 int main(void)
 {
         ios_base::sync_with_stdio(0);
