@@ -30,6 +30,7 @@
 * **B11021.cpp** | 백준 11021 [A+B-7](https://www.acmicpc.net/problem/11021)
 * **B11022.cpp** | 백준 11022 [A+B-8](https://www.acmicpc.net/problem/11022)
 * **B11727.cpp** | 백준 11727 [2×n 타일링 2](https://www.acmicpc.net/problem/11727)
+* **P1845.py** | 프로그래머스 1845 [폰켓몬](https://school.programmers.co.kr/learn/courses/30/lessons/1845)
 * **P12951.py** | 프로그래머스 12951 [JadenCase 문자열 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/12951)
 * **P12977.py** | 프로그래머스 12977 [소수 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/12977)
 * **P59044.sql** | 프로그래머스 59044 [오랜 기간 보호한 동물(1)](https://programmers.co.kr/learn/courses/30/lessons/59044)
@@ -38,3 +39,4 @@
 * **P68644.java** | 프로그래머스 68644 [두개 뽑아서 더하기](https://school.programmers.co.kr/learn/courses/30/lessons/68644)
 * **P70128.java** | 프로그래머스 70128 [내적](https://school.programmers.co.kr/learn/courses/30/lessons/70128)
 * **P86051.java** | 프로그래머스 86051 [없는 숫자 더하기](https://school.programmers.co.kr/learn/courses/30/lessons/86051)
+* **120866.py** | 프로그래머스 120866 [영어 끝말잇기](https://school.programmers.co.kr/learn/courses/30/lessons/120866)
