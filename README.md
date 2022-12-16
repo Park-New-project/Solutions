@@ -36,6 +36,7 @@
 * **P12973.py** | 프로그래머스 12973 [짝지어 제거 하기](https://school.programmers.co.kr/learn/courses/30/lessons/12973)
 * **P12977.py** | 프로그래머스 12977 [소수 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/12977)
 * **P42746.py** | 프로그래머스 42746 [가장 큰 수](https://school.programmers.co.kr/learn/courses/30/lessons/42746)
+* **P42748.py** | 프로그래머스 42748 [K번째수](https://school.programmers.co.kr/learn/courses/30/lessons/42748)
 * **P59044.sql** | 프로그래머스 59044 [오랜 기간 보호한 동물(1)](https://programmers.co.kr/learn/courses/30/lessons/59044)
 * **P59045.sql** | 프로그래머스 59045 [보호소에서 중성화한 동물](https://programmers.co.kr/learn/courses/30/lessons/59045)
 * **P64061.java** | 프로그래머스 64061 [크레인 인형뽑기 게임](https://programmers.co.kr/learn/courses/30/lessons/64061)
