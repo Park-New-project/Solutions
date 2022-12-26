@@ -39,6 +39,8 @@
 * **P42746.py** | 프로그래머스 42746 [가장 큰 수](https://school.programmers.co.kr/learn/courses/30/lessons/42746)
 * **P42748.py** | 프로그래머스 42748 [K번째수](https://school.programmers.co.kr/learn/courses/30/lessons/42748)
 * **P42839.py** | 프로그래머스 42839 [소수 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/42839)
+* **P42842.py** | 프로그래머스 42842 [카펫](https://school.programmers.co.kr/learn/courses/30/lessons/42842)
+* **P42862.py** | 프로그래머스 42862 [체육복](https://school.programmers.co.kr/learn/courses/30/lessons/42862)
 * **P59044.sql** | 프로그래머스 59044 [오랜 기간 보호한 동물(1)](https://programmers.co.kr/learn/courses/30/lessons/59044)
 * **P59045.sql** | 프로그래머스 59045 [보호소에서 중성화한 동물](https://programmers.co.kr/learn/courses/30/lessons/59045)
 * **P64061.java** | 프로그래머스 64061 [크레인 인형뽑기 게임](https://programmers.co.kr/learn/courses/30/lessons/64061)
@@ -46,3 +48,4 @@
 * **P70128.java** | 프로그래머스 70128 [내적](https://school.programmers.co.kr/learn/courses/30/lessons/70128)
 * **P86051.java** | 프로그래머스 86051 [없는 숫자 더하기](https://school.programmers.co.kr/learn/courses/30/lessons/86051)
 * **P120866.py** | 프로그래머스 120866 [영어 끝말잇기](https://school.programmers.co.kr/learn/courses/30/lessons/120866)
+* **P133502.py** | 프로그래머스 133502 [햄버거 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/133502)
